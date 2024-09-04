@@ -1,7 +1,7 @@
 /**
  * Programtesting1
  */
-public class Biodata_java1 {
+public class Biodata1_Farrel_Andika_Chandra {
     public static void main(String[] args){
         System.out.println("---------------------------------------------------------");
         System.out.println("-- Data Mahasiswa Jurusan Teknologi Informasi Polinema --");
